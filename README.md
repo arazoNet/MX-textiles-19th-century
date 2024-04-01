@@ -40,4 +40,4 @@ Razo, Armando and Stephen H. Haber (2021). Historical Cotton textiles data for M
 
 Original data sources and research article have their own copyright licenses.
 
-The analytic dataset uses the Academic Free License (AFL 3.0), which offers flexible licensing arrangements for derivate dataset artifacts.
+The analytic dataset uses the Academic Free License (AFL 3.0), which offers flexible licensing arrangements for derivative dataset artifacts.
